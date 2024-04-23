@@ -4,6 +4,9 @@ Um simples resumo do uso/propósito do projeto.
 
 ## Descrição do projeto
 
+### Link para aplicação (LIVE)
+https://telemarketing-w4t6.onrender.com
+
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
 ## Utilização
