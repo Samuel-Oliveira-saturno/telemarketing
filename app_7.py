@@ -78,10 +78,6 @@ Caderno de **exercício 01**<br>
     )
 
     st.write("# Telemarketing analysis")
-    st.write("# Telemarketing analysis")
-    st.write("# Telemarketing analysis")
-    st.write("# Telemarketing analysis")
-    st.write("# Telemarketing analysis")
     st.markdown(body="---")
 
     # SIDEBAR
